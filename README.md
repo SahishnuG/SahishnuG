@@ -38,7 +38,7 @@
 historical price trends with financial news sentiment for improved forecasting. Collected data via yfinance and
 web-scraping; implemented LSTM for baseline predictions; encoded headlines with FinBERT and FAISS similarity;
 trained XGBoost to map sentiment to percentage change. Built Flask API with endpoints for dataset creation, model
-status, and predictions; designed responsive TailwindCSS + Chart.js dashboard for visualization.
+status, and predictions; designed responsive TailwindCSS + Chart.js dashboard for visualization.  
 🔹 [Custom LSTM in C++](#) – Building neural networks from scratch in C++.  
 🔹 [OS Simulator](#) – Paging, memory management & job scheduling in C++.  
 🔹 [Kolam Generator API](#) – FastAPI-based app to analyze/generate Kolam patterns.  
